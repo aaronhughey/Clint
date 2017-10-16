@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clint</string>
+    <string-array name="options">
+        <item>Western</item>
+        <item>Dirty Harry</item>
+        <item>Other</item>
+    </string-array>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_dirty">MainDirtyActivity</string>
+</resources>
